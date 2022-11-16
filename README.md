@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xandr11
-- 👀 I’m interested in ...HTML,CSS,JavaScript,Python,c,c#,java,SQL,PHP,Ruby,Swift,Go,
+- 👀 I’m interested in ...HTML,CSS,JavaScript,Python,C,C#,java,SQL,PHP,Ruby,Swift,Go,
 - 🌱 I’m currently learning ...C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
